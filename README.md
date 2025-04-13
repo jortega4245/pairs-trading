@@ -29,10 +29,13 @@ pip install pandas numpy yfinance statsmodels matplotlib python-dotenv alpaca-py
 You'll need to create a .env file in the same directory with the following content:
 
 ALPACA_API_KEY=your_alpaca_api_key
+
 ALPACA_SECRET_KEY=your_alpaca_secret_key
 
 EMAIL_ADDRESS=youremail@gmail.com
+
 EMAIL_PASSWORD=your_email_app_password
+
 EMAIL_TO=destination_email@example.com
 
     Note: Use an App Password if you're using Gmail.
