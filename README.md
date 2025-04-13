@@ -53,8 +53,11 @@ You’ll receive an email when a Z-score threshold (default ±2.0) is crossed fo
 Edit the following variables in Pairs-Trading-Comparison.py:
 
 ticker1 = "V"
+
 ticker2 = "MA"
+
 start_date = "2018-01-01"
+
 end_date = "2024-01-01"
 
 Then run:
