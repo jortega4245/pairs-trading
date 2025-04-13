@@ -10,8 +10,8 @@ import matplotlib.pyplot as plt
 # Ticker Settings
 ticker1 = ''
 ticker2 = ''
-start_date = '1990-01-01'
-end_date = '2025-04-06'
+start_date = ''
+end_date = ''
 # -----------------------------
 
 def download_data(ticker, start, end):
